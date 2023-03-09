@@ -8,13 +8,16 @@
 Rainer Palm
 ==========
 
-**Data Scientist** / **Dashboards** / **Databases** / **Software Development** / **Python** / 
+**Data Scientist** / **Dashboards** / **Databases** / **Software Development** / **Python**
+
 **Graphic Design** / **Sound Recording & Editing**
 
 
 ---
 rdppetrizzo@gmail.com
+
 +58 414-752-4061
+
 @rdppetrizzo on Linkedin
 
 ---
