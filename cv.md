@@ -14,13 +14,64 @@ Rainer Palm
 
 
 ---
-rdppetrizzo@gmail.com
+[rdppetrizzo@gmail.com](mailto:rdppetrizzo@gmail.com)
 
 +58 414-752-4061
 
-@rdppetrizzo on Linkedin
+[@rdppetrizzo](https://www.linkedin.com/in/rdppetrizzo/) on Linkedin
 
 ---
+
+## Experience
+
+---
+
+* **Development Projects at [*Henry*]**
+    As part of Henry's course syllabus, i made 3 individual projects, and a final group project:
+    * [**mqueryAPI**](https://github.com/akumoth/mqueryAPI): Worked as the software developer for a home server API using Docker, Gunivorn and FastAPI. Information (around 20.000 rows from 4 different datasets) on movies from popular streaming services is transformed, stored in a Parquet file and finally queried via Pandas. 
+    * [**predImmobiliario**](https://github.com/akumoth/predImmobiliario): Worked as the data engineer for a ML classification model using scikit-learn. The model was trained on around 210.000 rows of data extracted from various property listing sites (including Craigslist), and used to predict whenever the price for a specific property on another dataset with 38.000 entries will be high or low depending on it's characteristics.
+    * [**moocDashboard**](https://github.com/akumoth/moocDashboard): Worked as the data analyst for a Streamlit dashboard where data (around 4.000 entries total) on 3 popular MOOC services was analyzed thoroughly in jupyter notebooks (one for each), and a KPI was visualized on 3 dashboard pages.
+    * [**flujos_migratorios**](https://github.com/akumoth/flujos_migratorios/): During the last month of this course, i worked as a data analyst and architect on a group project called *flujos_migratorios* where we collected and analyzed 4 datasets, with approximately 200.000 entries total (sourced from the UN and the World Bank) for the creation of a scikit-learn predictive model and PowerBI dashboard, with 4 KPIs and 5 pages. A MySQL database was created in Amazon RDS, and i made a ETL pipeline where the raw data was formatted from the source .csv/.xlsx files with Pandas into uniform, clean, SQL-friendly tables, then loaded into the RDS database using Peewee. Afterwards, i worked on the dashboard and EDA jupyter notebooks.
+
+* **Programmer and Translator at [*Qu4nt*]**
+    With Qu4nt, i worked as a english-spanish translator for scikit-learn and matplotlib's documentation (16.000~ words total), using translation tools like Crowdin, and, as a software developer, gave technical and programming support for 5-6 months for the scikit-risk Python library and a variety of other projects.
+
+* **Guide at Mérida's Museum of Science and Technology**
+    During high school, i worked part-time as a guide for around half a year in a natural sciences museum. Here, i gave a presentation to our visitors, explaining the technological, historical and seismological displays to 10-20 people every half hour, for an average of 60 people each work day.
+
+
+## Technical Experience
+
+---
+
+* Programming Languages:
+    * **Python**: 5 years of working experience in the aforementioned projects
+    * **Lua**: Intermediate knowledge from my own hobby projects
+
+* Frameworks/Libraries:
+    * **SQLAlchemy**: Studied as part of Henry's syllabus
+    * **peewee**: Studied on my own, used in Henry's projects
+    * **pandas**: Studied on my own, 2 years of working experience in the aforementioned projects
+    * **streamlit**: Studied on my own, used in Henry's projects
+    * **scikit-learn**: Studied on my own, 2 years of working experience in the aforementioned projects
+    * **matplotlib, seaborn**: Studied on my own, 2 years of working experience in the aforementioned projects
+    * **Univorn**: Studied as part of Henry's syllabus, used in Henry's projects
+    * **Love2D**: Beginner knowledge from my own hobby projects
+
+* Software Tools
+    * **Docker**: Studied as part of Henry's syllabus, used in Henry's projects
+    * **PowerBI**: Studied as part of Henry's syllabus, used in Henry's projects
+    * **Canva**: Studied on my own, used in Henry's projects
+    * **Adobe Illustrator**: Used on my own hobby projects and studied in a EDAT course
+    * **Adobe Premiere & After Effects**: Used on my own hobby projects
+    * **Inkscape & Gimp**: Used on my own hobby projects, for 9 years now
+    * **Ableton Live**: Used on my own hobby projects, for 4 years now
+    * **Godot**: Currently studying
+
+* Human Languages:
+    * **Native Spanish speaker**
+    * **Advanced English speaker**: Learned on my own. Have earned an [C2 Proficient EF SET certificate](https://www.efset.org/cert/XZ5enK)
+    * **Basic Japanese speaker**: Learned and studied with a Japanese teacher in Mérida, Venezuela. Have earned a N4 certificate
 
 ## Education
 
@@ -39,54 +90,3 @@ rdppetrizzo@gmail.com
 2018-2020
 * **Physics**; [*University of the Andes*] (Mérida, Venezuela)
     I spent 3 years in university here in Mérida, where i learned physics, chemistry and calculus up to a basic level, as part of the university's syllabus.
-
-## Experience
-
----
-
-* **Development Projects at [*Henry*]**
-    As part of Henry's course syllabus, i made 3 individual projects:
-    * **mqueryAPI**: A home server API using Docker, Gunivorn and FastAPI that returns information about a variety of movies from popular streaming services on demand.
-    * **predImmobiliario**: A ML classification model using scikit-learn, used to predict whenever the price for a specific property will be high or low depending on it's characteristics.
-    * **moocDashboard**: Data analysis of popular MOOC services, and visualization via dashboard. 
-    During the last month of this course, i worked on a group project called *flujos_migratorios* where we collected and analyzed a variety of datasets pertaining to migration with Pandas, uploaded it to a fresh data warehouse created via RDS, and visualized it in a PowerBI dashboard.
-
-* **Programmer and Translator at [*Qu4nt*]**
-    During my time working with Qu4nt, i helped translate scikit-learn and matplotlib's documentation to spanish using translation tools like Crowdin, and gave technical and programming support for the scikit-risk library and a variety of other projects.
-
-* **Guide at Mérida's Museum of Science and Technology**
-    During high school, i worked for around half a year as a guide in a natural sciences museum, where i gave a summary explanation of the sections of the museum that displayed technology's history, dinosaur models,m Venezuelan historical documents, and seismic movements to our visitors in a didactic manner.
-
-
-## Technical Experience
-
----
-
-* Programming Languages:
-    * **Python**: 5 years of working experience in the aforementioned projects
-    * **Lua**: Intermediate knowledge from my own hobby projects
-
-* Frameworks/Libraries:
-    * **SQLAlchemy**
-    * **peewee**
-    * **pandas**
-    * **streamlit**
-    * **scikit-learn**
-    * **matplotlib, seaborn**
-    * **Univorn**
-    * **Love2D**
-
-* Software Tools
-    * **Docker**
-    * **PowerBI**
-    * **Canva**
-    * **Adobe Illustrator**
-    * **Adobe Premiere & After Effects**
-    * **Inkscape & Gimp**
-    * **Ableton Live**
-    * **Godot**
-
-* Human Languages:
-    * **Native Spanish speaker**
-    * **Advanced English speaker**
-    * **Basic Japanese speaker**
