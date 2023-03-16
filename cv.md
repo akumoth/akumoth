@@ -28,16 +28,23 @@ Rainer Palm
 
 * **Development Projects at [*Henry*]**
     As part of Henry's course syllabus, i made 3 individual projects, and a final group project:
-    * [**mqueryAPI**](https://github.com/akumoth/mqueryAPI): Worked as the software developer for a home server API using Docker, Gunivorn and FastAPI. Information (around 20.000 rows from 4 different datasets) on movies from popular streaming services is transformed, stored in a Parquet file and finally queried via Pandas. 
-    * [**predImmobiliario**](https://github.com/akumoth/predImmobiliario): Worked as the data engineer for a ML classification model using scikit-learn. The model was trained on around 210.000 rows of data extracted from various property listing sites (including Craigslist), and used to predict whenever the price for a specific property on another dataset with 38.000 entries will be high or low depending on it's characteristics.
-    * [**moocDashboard**](https://github.com/akumoth/moocDashboard): Worked as the data analyst for a Streamlit dashboard where data (around 4.000 entries total) on 3 popular MOOC services was analyzed thoroughly in jupyter notebooks (one for each), and a KPI was visualized on 3 dashboard pages.
-    * [**flujos_migratorios**](https://github.com/akumoth/flujos_migratorios/): During the last month of this course, i worked as a data analyst and architect on a group project called *flujos_migratorios* where we collected and analyzed 4 datasets, with approximately 200.000 entries total (sourced from the UN and the World Bank) for the creation of a scikit-learn predictive model and PowerBI dashboard, with 4 KPIs and 5 pages. A MySQL database was created in Amazon RDS, and i made a ETL pipeline where the raw data was formatted from the source .csv/.xlsx files with Pandas into uniform, clean, SQL-friendly tables, then loaded into the RDS database using Peewee. Afterwards, i worked on the dashboard and EDA jupyter notebooks.
 
-* **Programmer and Translator at [*Qu4nt*]**
-    With Qu4nt, i worked as a english-spanish translator for scikit-learn and matplotlib's documentation (16.000~ words total), using translation tools like Crowdin, and, as a software developer, gave technical and programming support for 5-6 months for the scikit-risk Python library and a variety of other projects.
+    * [**mqueryAPI**](https://github.com/akumoth/mqueryAPI): Worked as the Software Developer for a home server API using Docker, Gunivorn and FastAPI. Information (around 20.000 rows from 4 different datasets) on movies from popular streaming services is transformed, stored in a Parquet file and finally queried via Pandas. 
+
+    * [**predImmobiliario**](https://github.com/akumoth/predImmobiliario): Worked as the Data Engineer for a ML classification model using Scikit-Learn. The model was trained on around 210.000 rows of data extracted from various property listing sites (including Craigslist), and used to predict whenever the price for a specific property on another dataset with 38.000 entries will be high or low depending on it's characteristics.
+
+    * [**moocDashboard**](https://github.com/akumoth/moocDashboard): Worked as the Data Analyst for a Streamlit dashboard where data (around 4.000 entries total) on 3 popular MOOC services was analyzed thoroughly in Jupyter notebooks (one for each), and a KPI was visualized on 3 different dashboard pages.
+
+    * [**flujos_migratorios**](https://github.com/akumoth/flujos_migratorios/): Worked as a Data Analyst and Architect on a group project called *flujos_migratorios* where we collected and analyzed data on migration and human development across 4 different datasets, with approximately 200.000 entries total (sourced from UN reports and the World Bank DataBank), for the creation of a Scikit-Learn predictive model and PowerBI dashboard, with 5 pages and 4 KPIs. A MySQL database was created in Amazon RDS, and i made an ETL pipeline where the raw data was formatted from the source .csv/.xlsx files with Pandas into uniform, clean, SQL-friendly tables, then loaded into the RDS database using Peewee. Afterwards, i made Jupyter notebooks with EDAs for 2 of the datasets and worked on the dashboard.
+
+* **Translator at [*Qu4nt*]**
+    Worked as a English-Spanish Translator for Scikit-Learn and Matplotlib's documentation (16.000~ words total), using translation tools like Crowdin.
+
+* **Programmer at [*Qu4nt*]**
+    Worked as a Software Developer, giving technical and programming support for 5-6 months for the Scikit-Risk Python library and a variety of other projects.
 
 * **Guide at Mérida's Museum of Science and Technology**
-    During high school, i worked part-time as a guide for around half a year in a natural sciences museum. Here, i gave a presentation to our visitors, explaining the technological, historical and seismological displays to 10-20 people every half hour, for an average of 60 people each work day.
+    During high school, i worked part-time as a Museum Guide for around half a year in a Natural Sciences museum. Here, i gave a presentation to our visitors, explaining the technological, historical and seismological displays to 10-20 people every half hour, for an average of 60 people each work day.
 
 
 ## Technical Experience
@@ -89,4 +96,4 @@ Rainer Palm
 
 2018-2020
 * **Physics**; [*University of the Andes*] (Mérida, Venezuela)
-    I spent 3 years in university here in Mérida, where i learned physics, chemistry and calculus up to a basic level, as part of the university's syllabus.
+    Studied for 3 years in this Mérida university, where i learned physics, chemistry and calculus up to a basic level, as part of the university's syllabus.
