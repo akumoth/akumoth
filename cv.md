@@ -35,7 +35,7 @@ Rainer Palm
 
     * [**moocDashboard**](https://github.com/akumoth/moocDashboard): Worked as the Data Analyst for a Streamlit dashboard where data (around 4.000 entries total) on 3 popular MOOC services was analyzed thoroughly in Jupyter notebooks (one for each), and a KPI was visualized on 3 different dashboard pages.
 
-    * [**flujos_migratorios**](https://github.com/akumoth/flujos_migratorios/): Worked as a Data Analyst and Architect on a group project called *flujos_migratorios* where we collected and analyzed data on migration and human development across 4 different datasets, with approximately 200.000 entries total (sourced from UN reports and the World Bank DataBank), for the creation of a Scikit-Learn predictive model and PowerBI dashboard, with 5 pages and 4 KPIs. A MySQL database was created in Amazon RDS, and i made an ETL pipeline where the raw data was formatted from the source .csv/.xlsx files with Pandas into uniform, clean, SQL-friendly tables, then loaded into the RDS database using Peewee. Afterwards, i made Jupyter notebooks with EDAs for 2 of the datasets and worked on the dashboard.
+    * [**flujos_migratorios**](https://github.com/akumoth/flujos_migratorios/): Worked as a Data Analyst and Architect on a group project called *flujos_migratorios* where we collected and analyzed data on migration and human development across 4 different datasets, with approximately 200.000 entries total (sourced from UN reports and the World Bank DataBank API), for the creation of a Scikit-Learn predictive model and PowerBI dashboard, with 5 pages and 4 KPIs. A MySQL database was created in Amazon RDS, and i made an ETL pipeline where the raw data was formatted from the source .csv/.xlsx files with Pandas into uniform, clean, SQL-friendly tables, then loaded into the RDS database using Peewee. Afterwards, i made Jupyter notebooks with EDAs for 2 of the datasets and worked on the dashboard.
 
 * **Translator at [*Qu4nt*]**
     Worked as a English-Spanish Translator for Scikit-Learn and Matplotlib's documentation (16.000~ words total), using translation tools like Crowdin.
@@ -54,6 +54,13 @@ Rainer Palm
 * Programming Languages:
     * **Python**: 5 years of working experience in the aforementioned projects
     * **Lua**: Intermediate knowledge from my own hobby projects
+
+* Databases:
+    * **MySQL**: Studied as part of Henry's syllabus, used in Henry's projects
+    * **PostgreSQL**: Studied on my own, used in Henry's projects
+    * **MongoDB**: Studied as part of Henry's syllabus, used in Henry's projects
+    * **AWS Redshift**: Studied as part of Henry's syllabus, used in Henry's projects
+    * **AWS RDS**: Studied as part of Henry's syllabus, used in Henry's projects
 
 * Frameworks/Libraries:
     * **SQLAlchemy**: Studied as part of Henry's syllabus
