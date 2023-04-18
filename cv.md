@@ -61,21 +61,27 @@ Rainer Palm
     * **MongoDB**: Studied as part of Henry's syllabus, used in Henry's projects
     * **AWS Redshift**: Studied as part of Henry's syllabus, used in Henry's projects
     * **AWS RDS**: Studied as part of Henry's syllabus, used in Henry's projects
+    * **Microsoft Azure**: Studied as part of Henry's syllabus
+
 
 * Frameworks/Libraries:
     * **SQLAlchemy**: Studied as part of Henry's syllabus
+    * **PySpark**: Studied as part of Henry's syllabus
     * **peewee**: Studied on my own, used in Henry's projects
     * **pandas**: Studied on my own, 2 years of working experience in the aforementioned projects
     * **streamlit**: Studied on my own, used in Henry's projects
     * **scikit-learn**: Studied on my own, 2 years of working experience in the aforementioned projects
     * **matplotlib, seaborn**: Studied on my own, 2 years of working experience in the aforementioned projects
     * **Univorn**: Studied as part of Henry's syllabus, used in Henry's projects
+    * **FastAPI**: Studied as part of Henry's syllabus, used in Henry's projects
     * **Love2D**: Beginner knowledge from my own hobby projects
 
 * Software Tools
     * **Docker**: Studied as part of Henry's syllabus, used in Henry's projects
+    * **Hadoop**: Studied as part of Henry's syllabus, used in Henry's projects
     * **PowerBI**: Studied as part of Henry's syllabus, used in Henry's projects
     * **Canva**: Studied on my own, used in Henry's projects
+    * **Microsoft Excel**: Studied as part of Henry's syllabus, used in Henry's projects
     * **Adobe Illustrator**: Used on my own hobby projects and studied in a EDAT course
     * **Adobe Premiere & After Effects**: Used on my own hobby projects
     * **Inkscape & Gimp**: Used on my own hobby projects, for 9 years now

@@ -62,9 +62,11 @@ Rainer Palm
     * **MongoDB**: Estudiado como parte del pensum de Henry, utilizado en los proyectos de Henry
     * **AWS Redshift**: Estudiado como parte del pensum de Henry, utilizado en los proyectos de Henry
     * **AWS RDS**: Estudiado como parte del pensum de Henry, utilizado en los proyectos de Henry
+    * **Azure Cloud**: Estudiado como parte del pensum de Henry
 
 * Frameworks/Libraries:
     * **SQLAlchemy**: Estudiado como parte del pensum de Henry
+    * **PySpark**: Estudiado como parte del pensum de Henry
     * **peewee**: Estudiado por mi cuenta, usado en los proyectos de Henry
     * **pandas**: Estudiado por mi cuenta, 2 años de experiencia trabajando en los proyectos mencionados anteriormente
     * **streamlit**: Estudiado por mi cuenta, usado en los proyectos de Henry
@@ -75,6 +77,7 @@ Rainer Palm
 
 * Software Tools
     * **Docker**: Estudiado como parte del pensum de Henry, utilizado en los proyectos de Henry
+    * **Apache Hadoop**: Estudiado como parte del pensum de Henry, utilizado en los proyectos de Henry
     * **PowerBI**: Estudiado como parte del pensum de Henry, utilizado en los proyectos de Henry
     * **Canva**: Estudiado por mi cuenta, usado en los proyectos de Henry
     * **Adobe Illustrator**: Usado en mis proyectos hobby y estudiado en la academia EDAT
