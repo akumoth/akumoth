@@ -1,112 +1,124 @@
-[*Henry*]: https://www.soyhenry.com/ "Henry - Una oportunidad que cambia tu vida"
-[*EDAT - School of Design and Technological Artisanship*]: https://edat.org.ve/ "EDAT - Escuela de Diseño y Artesanía Tecnológica"
-[*University of the Andes*]: https://edat.org.ve/ "EDAT - Escuela de Diseño y Artesanía Tecnológica"
-[*6por8*]: https://www.facebook.com/6porocho/ "6por8 - Producción Músical"
+<p style="text-align:left;">
+    <h2 style="display: inline-block;">Rainer Palm<br><small>Data Scientist, Python Developer</small></h2>
+    <span style="float:right;text-align: right;">
+        <small><sub>Mérida, Venezuela<br>
+        (+58) 414-752-4061<br>
+        rdppetrizzo@gmail.com<br>
+        <a href="https://www.linkedin.com/in/rdppetrizzo/">Linkedin</a>
+        </small></sub>
+    </span>
+</p>
 
-[*Qu4nt*]: https://qu4nt.com/ "Qu4nt"
+*Data Scientist* with around one year of experience working as a *Python Developer*, specializing in Pandas, PostgreSQL, FastAPI and AWS. I have knowledge regarding relational and non-relational databases, agile methodologies, model evaluation, machine learning with PyTorch and Scikit-Learn, and dashboard design with PowerBI and Streamlit. I have experience generating reports in Jupyter and creating automatic ETL pipelines. Designing practical analytical solutions within both my education and a work environment has allowed me to develop a good amount of adaptability, agile ways of learning and effective decision making.
 
-Rainer Palm
-==========
+**English Level**: [C2 Proficient EF SET](https://www.efset.org/cert/XZ5enK)
 
-**Data Scientist** / **Dashboards** / **Databases** / **Software Development** / **Python**
+-------------
 
-**Graphic Design** / **Sound Recording & Editing**
+### <ins>**PROJECTS**</ins>
 
+-
 
----
-[rdppetrizzo@gmail.com](mailto:rdppetrizzo@gmail.com)
+<p style="text-align:left;">
+    <span style="float:right;text-align: right;">
+        2023/02/16 - 2023/03/22
+    </span>
+    <strong>Data Scientist - "<a href="https://github.com/akumoth/flujos_migratorios/">Flujos Migratorios</a>"</strong><br>
+    Academic experience.<br>
+    Henry Bootcamp, Buenos Aires, Argentina.
+</p>
 
-+58 414-752-4061
+* Creation of analytical solutions to attain the data required by the client.
+* Investigation of the problem and generation of explorative and quality-related reports on the data from the collected datasets.
+* Creation of ETL pipeline, KPIs, a data warehouse and a dashboard for the final product.
 
-[@rdppetrizzo](https://www.linkedin.com/in/rdppetrizzo/) on Linkedin
+**Tools or Frameworks:** Python, Jupyter, Power BI | **Databases:** MySQL
 
----
+**Platforms:** Github, AWS RDS
 
-## Experience
+-
 
----
+<p style="text-align:left;">
+    <span style="float:right;text-align: right;">
+        2023/01/14 - 2023/01/19
+    </span>
+    <strong>Data Engineer - "<a href="https://github.com/akumoth/predimmobiliario/">predImmobiliario</a>"</strong><br>
+    Academic experience.<br>
+    Henry Bootcamp, Buenos Aires, Argentina.
+</p>
 
-* **Development Projects at [*Henry*]**
-    As part of Henry's course syllabus, i made 3 individual projects, and a final group project:
+* Creation and training of a predictive classification model.
 
-    * [**mqueryAPI**](https://github.com/akumoth/mqueryAPI): Worked as the Software Developer for a home server API using Docker, Gunivorn and FastAPI. Information (around 20.000 rows from 4 different datasets) on movies from popular streaming services is transformed, stored in a Parquet file and finally queried via Pandas. 
+**Tools or Frameworks:** Python, Jupyter | **Platforms:** Github
 
-    * [**predImmobiliario**](https://github.com/akumoth/predImmobiliario): Worked as the Data Engineer for a ML classification model using Scikit-Learn. The model was trained on around 210.000 rows of data extracted from various property listing sites (including Craigslist), and used to predict whenever the price for a specific property on another dataset with 38.000 entries will be high or low depending on it's characteristics.
+-
 
-    * [**moocDashboard**](https://github.com/akumoth/moocDashboard): Worked as the Data Analyst for a Streamlit dashboard where data (around 4.000 entries total) on 3 popular MOOC services was analyzed thoroughly in Jupyter notebooks (one for each), and a KPI was visualized on 3 different dashboard pages.
+<p style="text-align:left;">
+    <span style="float:right;text-align: right;">
+        2022/11/23 - 2022/11/30
+    </span>
+    <strong>Data Engineer - "<a href="https://github.com/akumoth/mqueryAPI/">mqueryAPI</a>"</strong><br>
+    Academic experience.<br>
+    Henry Bootcamp, Buenos Aires, Argentina.
+</p>
 
-    * [**flujos_migratorios**](https://github.com/akumoth/flujos_migratorios/): Worked as a Data Analyst and Architect on a group project called *flujos_migratorios* where we collected and analyzed data on migration and human development across 4 different datasets, with approximately 200.000 entries total (sourced from UN reports and the World Bank DataBank API), for the creation of a Scikit-Learn predictive model and PowerBI dashboard, with 5 pages and 4 KPIs. A MySQL database was created in Amazon RDS, and i made an ETL pipeline where the raw data was formatted from the source .csv/.xlsx files with Pandas into uniform, clean, SQL-friendly tables, then loaded into the RDS database using Peewee. Afterwards, i made Jupyter notebooks with EDAs for 2 of the datasets and worked on the dashboard.
+* API designed to run from a Docker home server.
+* Generation of data quality report and database schema.
 
-* **Translator at [*Qu4nt*]**
-    Worked as a English-Spanish Translator for Scikit-Learn and Matplotlib's documentation (16.000~ words total), using translation tools like Crowdin.
+**Tools or Frameworks:** Python, Docker, Jupyter | **Databases:** SQLite3
 
-* **Programmer at [*Qu4nt*]**
-    Worked as a Software Developer, giving technical and programming support for 5-6 months for the Scikit-Risk Python library and a variety of other projects.
+**Platforms:** Github
 
-* **Guide at Mérida's Museum of Science and Technology**
-    During high school, i worked part-time as a Museum Guide for around half a year in a Natural Sciences museum. Here, i gave a presentation to our visitors, explaining the technological, historical and seismological displays to 10-20 people every half hour, for an average of 60 people each work day.
+### <ins>**PROFESIONAL EXPERIENCE**</ins>
 
+-
+<p style="text-align:left;">
+    <span style="float:right;text-align: right;">
+        2022/05/06 - 2022/09/08
+    </span>
+    <strong>Python Developer - "<a href="https://github.com/qu4nt/scikit-risk/">scikit-risk</a>"</strong><br>
+    Qu4nt, Mérida, Venezuela.
+</p>
 
-## Technical Experience
+* Creation of a python library oriented around analytical needs.
+* General tool for running Monte Carlo simulations and performing risk analysis in Python.
+* Creation of examples and documentation for the project's presentation.
 
----
+**Tools or Frameworks:** Python | **Platforms:** Github
 
-* Programming Languages:
-    * **Python**: 5 years of working experience in the aforementioned projects
-    * **Lua**: Intermediate knowledge from my own hobby projects
+-
 
-* Databases:
-    * **MySQL**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **PostgreSQL**: Studied on my own, used in Henry's projects
-    * **MongoDB**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **AWS Redshift**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **AWS RDS**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **Microsoft Azure**: Studied as part of Henry's syllabus
+<p style="text-align:left;">
+    <span style="float:right;text-align: right;">
+        2022/02/10 - 2022/04/06
+    </span>
+    <strong>English-Spanish Translator - "Documentación de Scikit-Learn y Matplotlib"</strong><br>
+    Qu4nt, Mérida, Venezuela.
+</p>
 
+* Translation of a pair of Python libraries' documentation, ones with a large number of users in the Data Science field.
+* I translated about 28,000 words in total.
 
-* Frameworks/Libraries:
-    * **SQLAlchemy**: Studied as part of Henry's syllabus
-    * **PySpark**: Studied as part of Henry's syllabus
-    * **peewee**: Studied on my own, used in Henry's projects
-    * **pandas**: Studied on my own, 2 years of working experience in the aforementioned projects
-    * **streamlit**: Studied on my own, used in Henry's projects
-    * **scikit-learn**: Studied on my own, 2 years of working experience in the aforementioned projects
-    * **matplotlib, seaborn**: Studied on my own, 2 years of working experience in the aforementioned projects
-    * **Univorn**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **FastAPI**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **Love2D**: Beginner knowledge from my own hobby projects
+**Tools or Frameworks:** Crowdin | **Platforms:** Crowdin
 
-* Software Tools
-    * **Docker**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **Hadoop**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **PowerBI**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **Canva**: Studied on my own, used in Henry's projects
-    * **Microsoft Excel**: Studied as part of Henry's syllabus, used in Henry's projects
-    * **Adobe Illustrator**: Used on my own hobby projects and studied in a EDAT course
-    * **Adobe Premiere & After Effects**: Used on my own hobby projects
-    * **Inkscape & Gimp**: Used on my own hobby projects, for 9 years now
-    * **Ableton Live**: Used on my own hobby projects, for 4 years now
-    * **Godot**: Currently studying
+### <ins>**TECNOLOGIES**</ins>
 
-* Human Languages:
-    * **Native Spanish speaker**
-    * **Advanced English speaker**: Learned on my own. Have earned an [C2 Proficient EF SET certificate](https://www.efset.org/cert/XZ5enK)
-    * **Basic Japanese speaker**: Learned and studied with a Japanese teacher in Mérida, Venezuela. Have earned a N4 certificate
+**Programming Languages:** Python, Lua, GDScript
 
-## Education
+**Libraries:** SQLAlchemy, PySpark, PyTorch, Peewee, Pandas, Matplotlib, Seaborn, Streamlit, Scikit-Learn, Scrapy, Univorn, FastAPI, Love2D
 
----
+**Tools or Frameworks:** Docker, Hadoop, Power BI, Canva, Microsoft Excel, Adobe Illustrator, Adobe Premiere & After Effects, Inkscape, Gimp, Ableton Live, Godot
 
-2022-2023
-* **Data Science - Full Time**; [*Henry*] (Argentina)
-    Intensive online data science course where we were taught how to program in Python, create and manage relational databases, host and deploy products online, and a multitude of data visualization and analysis tools, culminating in the creation of 4 proyects.
-* **Recording Arts Course**; [*6por8*] (Mérida, Venezuela)
-    Music recording course where we were taught the basics of composition, music theory, psychoacoustics and sound engineering, how to set up a home studio, the details of a variety of microphones/compressors/reverbs/amplificators, their usage and a multitude of common techniques, as well as how to fit this knowledge within the music making process. During the last month of this course, we created an original song, applying the techniques learned with tools given to us.
+**Platforms:** Github, Amazon Web Services, Google Cloud
 
-2021 
-* **Adobe Illustrator for Social Networks**; [*EDAT - School of Design and Technological Artisanship*] (Mérida, Venezuela)
-    Graphic design course where we were taught how to use Adobe Illustrator to make a brand identity for a particular business or company, including the basics of font usage, visual language, etc.
+**Operating Systems:** Linux (Ubuntu, Mint, Debian, Arch), Windows
 
-2018-2020
-* **Physics**; [*University of the Andes*] (Mérida, Venezuela)
-    Studied for 3 years in this Mérida university, where i learned physics, chemistry and calculus up to a basic level, as part of the university's syllabus.
+### <ins>**PROFESSIONAL EDUCATION**</ins>
+
+* Data Science. Henry Bootcamp. 2022.
+* Physics. University of the Andes. 2020. (parcíal)
+
+### <ins>**COMPLEMENTARY EDUCATION**</ins>
+
+* HuggingFace NLP Course. HuggingFace. 2023
+* Adobe Illustrator for Social Networks. EDAT. 2022
