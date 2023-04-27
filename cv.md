@@ -17,8 +17,6 @@
 
 ### <ins>**PROJECTS**</ins>
 
--
-
 <p style="text-align:left;">
     <span style="float:right;text-align: right;">
         2023/02/16 - 2023/03/22
@@ -36,7 +34,7 @@
 
 **Platforms:** Github, AWS RDS
 
--
+.
 
 <p style="text-align:left;">
     <span style="float:right;text-align: right;">
@@ -51,7 +49,7 @@
 
 **Tools or Frameworks:** Python, Jupyter | **Platforms:** Github
 
--
+.
 
 <p style="text-align:left;">
     <span style="float:right;text-align: right;">
@@ -71,7 +69,6 @@
 
 ### <ins>**PROFESIONAL EXPERIENCE**</ins>
 
--
 <p style="text-align:left;">
     <span style="float:right;text-align: right;">
         2022/05/06 - 2022/09/08
@@ -86,7 +83,7 @@
 
 **Tools or Frameworks:** Python | **Platforms:** Github
 
--
+.
 
 <p style="text-align:left;">
     <span style="float:right;text-align: right;">
